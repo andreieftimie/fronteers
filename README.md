@@ -1,4 +1,4 @@
 fronteers
 =========
 
-Some stats abotu the Fronteers Conference
+Some stats about the Fronteers Conference
